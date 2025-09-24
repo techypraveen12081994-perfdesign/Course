@@ -9,5 +9,5 @@ Dynamic Programming
 Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
 
 Praveen Chand
-Algorithm Analysis
-Algorithm Analysis has taught me the fundamental importance of evaluating computational efficiency before implementation. Through this module, I learned how to analyze time and space complexity using Big O notation, which helps in choosing the most optimal solution for a given problem. Understanding worst-case, best-case, and average-case scenarios has significantly improved my ability to write efficient code. This knowledge is crucial for building scalable applications that can handle large datasets effectively.
+Git and Version Control
+I am feeling absolutely great learning Git and GitHub! This module has been a game-changer for me as it introduced me to the world of version control and collaborative development. Understanding concepts like repositories, commits, branches, and merging has given me confidence in managing my code projects effectively. The ability to track changes, revert to previous versions, and collaborate with other developers through GitHub has opened up so many possibilities for my programming journey.
