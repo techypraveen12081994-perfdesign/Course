@@ -7,3 +7,7 @@ You can choose one module from the list below:-
 Pawan Dubey
 Dynamic Programming
 Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
+
+Praveen Chand
+Algorithm Analysis
+Algorithm Analysis has taught me the fundamental importance of evaluating computational efficiency before implementation. Through this module, I learned how to analyze time and space complexity using Big O notation, which helps in choosing the most optimal solution for a given problem. Understanding worst-case, best-case, and average-case scenarios has significantly improved my ability to write efficient code. This knowledge is crucial for building scalable applications that can handle large datasets effectively.
